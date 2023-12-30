@@ -1,0 +1,3 @@
+C:\Users\samok\repositories\CardMaker\obj\Debug\CardMaker.njsproj.AssemblyReference.cache
+C:\Users\samok\repositories\CardMaker\obj\Debug\CardMaker.njsproj.CoreCompileInputs.cache
+C:\Users\samok\repositories\CardMaker\bin\Microsoft.NodejsTools.WebRole.dll
